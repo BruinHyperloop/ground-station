@@ -1,0 +1,24 @@
+{
+  "name": "bruinhyperloop_groundstation",
+  "version": "1.0.0",
+  "description": "Ground station backend with MySQL DB integration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BruinHyperloop/ground-station.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BruinHyperloop/ground-station/issues"
+  },
+  "homepage": "https://github.com/BruinHyperloop/ground-station#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.2"
+  }
+}
